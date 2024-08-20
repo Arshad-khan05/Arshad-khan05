@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Frontend development**
+- 💬 Ask me about **Backend development**
 
 - 📫 How to reach me **arshadkhan200205@gmail.com**
 
